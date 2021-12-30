@@ -1,13 +1,5 @@
 # https://www.youtube.com/watch?v=bx29lcIXCPg
-# DSIT (Django_Study_In_Tipstown)
 
-## 1. 매주 화요일 오후 7시 (장소 : 팁스타운 s6 / 역삼동)
-- 현재는 코로나 거리 두기 단계 4단계 격상으로 인해 google meet활용해 진행하고 있음
-
-## 2. 발표방식 : 챕터 1 개를 요약해서 발표 진행
-- 진행 시간 분배 : 기본 교재 + (알파 : 각자 코드 리뷰 및 고민 사항)
-- 발표순서 : 경호님 //  경준님 // 도경님 // 종균님 // 진환님
-- 발표자료 : 개인이 각자 편한 형태로 공유
 
 ## 3. 스터디 교재 및 참고자료
 - 교재 :  두숟갈 책 ([https://www.feldroy.com/products/two-scoops-of-django-3-x](https://www.feldroy.com/products/two-scoops-of-django-3-x))
